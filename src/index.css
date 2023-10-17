@@ -1,0 +1,73 @@
+
+*{
+  margin: 0;
+ color:  #5a6ac8;
+ background-color: #c8b85a;
+}
+.App {
+  text-align: center;
+  border: 1px solid #5a6ac8;
+  padding-bottom: 300px;
+  padding-left: 75px;
+  }
+.navbar{
+  padding: 20px;
+
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid black;
+}
+ .navbar .links {
+  margin: auto;
+ }
+.navbar a{
+  margin: 7px;
+}
+.home{
+  margin: 10px;
+
+}
+.home h2{
+  margin: 10px;
+
+}
+.home a{
+  
+  margin: 15px;
+ 
+}
+ .mainlogo img{
+  width: 300px;
+  height: 300px;
+}
+.menu-prewiew{
+  max-width: 600px;
+  float: left;
+  margin: 10px;
+}
+.menu-prewiew a{
+text-decoration: none;
+}
+.mission{
+  align-items: center;
+  border-bottom: 2px solid black;
+
+  margin-top: 60px;
+  margin-left: 125px;
+}
+.history{
+  align-items: center;
+  border: 2px solid #5a6ac8;
+
+  margin: 125px;
+  padding:100px;
+}
+.ben img{
+  width:500px;
+  height:400px;
+}
+.custom form{
+  padding:20px;
+  margin: 20px;
+}
